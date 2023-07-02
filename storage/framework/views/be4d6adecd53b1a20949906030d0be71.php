@@ -1,0 +1,3 @@
+<svg class="w-20 h-20 stroke-red-500" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true">
+  <path stroke-linecap="round" stroke-linejoin="round" d="M12 6v6h4.5m4.5 0a9 9 0 11-18 0 9 9 0 0118 0z"/>
+</svg><?php /**PATH /Users/nurulizzahq/Documents/proweb/proweb/storage/framework/views/893e1aa1c29678a323cfb75ea8c67041.blade.php ENDPATH**/ ?>
